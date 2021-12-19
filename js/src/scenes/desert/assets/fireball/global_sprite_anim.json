@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "fire",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "global_sprite",
+                    "frame": "fireball_4@2x"
+                },
+                {
+                    "key": "global_sprite",
+                    "frame": "fireball_3@2x"
+                },
+                {
+                    "key": "global_sprite",
+                    "frame": "fireball_2@2x"
+                },
+                {
+                    "key": "global_sprite",
+                    "frame": "fireball_1@2x"
+                }
+            ]
+        }
+    ]
+}

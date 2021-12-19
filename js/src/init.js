@@ -4,6 +4,7 @@ const config = {
     width: window.innerWidth,
     heiht: window.innerHeight,
     parent: "Game",
+    backgroundColor: "#1DF1FF",
     physics: {
         default: "arcade",
         arcade: {
