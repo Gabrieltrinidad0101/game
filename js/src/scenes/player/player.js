@@ -6,7 +6,7 @@ class Player extends Phaser.Scene{
     }
 
     preload(){
-        this.load.image("heart","/js/src/scenes/interfaces/assets/UI/icon_heart.png")
+        this.load.image("heart","./js/src/scenes/interfaces/assets/UI/icon_heart.png")
     }
 
     create(){
